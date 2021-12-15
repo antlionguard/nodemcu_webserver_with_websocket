@@ -1,0 +1,5 @@
+// CREATE "env.cpp" FILE IN THIS DIRECTORY AND PASTE THIS CODE. DO NOT USE THIS FILE.
+#include "env.h"
+
+const char *ssid = "YOUR_SSID";
+const char *password = "YOUR_PASSWORD";
